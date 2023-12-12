@@ -13,7 +13,7 @@ Application done by Cedric Muller. ®2023
 #include <unistd.h>
 
 
-/* ANSI escape codes for text color you can go on this GitHub repositary :
+/* ANSI escape codes for text color you can go on this GitHub repository :
  https://gist.github.com/RabaDabaDoba/145049536f815903c79944599c6f952a */
 
 #define RESET   "\033[0m"
